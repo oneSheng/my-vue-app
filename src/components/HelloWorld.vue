@@ -4,8 +4,9 @@
   <div class="card">
     <button type="button" @click="count++">count is {{ count }}</button>
     <p>
-      Edit1
-      <code>components/HelloWorld.vue</code> to test HMR
+      <!-- Edit1
+      <code>components/HelloWorld.vue</code> to test HMR -->
+      刘朋利杨赛
     </p>
   </div>
 
